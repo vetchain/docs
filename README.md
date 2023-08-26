@@ -53,6 +53,7 @@ The International Health Booklet (IHB) brings several advantages to the table:
 3. **Global Veterinary Communication**: Facilitates global interoperability and data exchange for better health outcomes.
 4. **Traceability and Immutability**: Blockchain technology ensures traceability and immutability for secure and traceable records.
 5. **Seamless Cross-Border Procedures**: Adherence to international standards and regulations facilitates smooth travel experiences.
+6. **Insurance Health Coverage**: The IHB also facilitates seamless insurance processes. With the IHC incorporated into the IHB, animal owners can easily obtain Prior Authorizations for veterinary procedures, ensuring a hassle-free insurance experience.
 
 
 ### ICAO Emergency Travel Document (ETD) for Cross-Border Care and Emergencies
@@ -76,6 +77,7 @@ Pet owners can conveniently obtain an IHC in two ways: either printed by veterin
 - **Digital Transformation**: Unlike the conventional paper-based booklets, IHB features digitally encoded International Health Cards (IHC) that hold a pet's entire clinical history.
 - **QR Codes**: These IHCs use QR codes to securely and efficiently store data, making it easily accessible.
 - **Physical and Digital**: IHB can be printed out, with the IHCs attached as adhesive cards, or stored digitally on mobile devices.
+- **Insurance Health Coverage**: One of the standout features of the IHC is its ability to simplify insurance procedures by including the insurance coverages for obtaining Prior Authorizations, making it convenient for pet owners to manage insurance claims and coverage.
 
 ---
 
